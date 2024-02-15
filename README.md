@@ -1,1 +1,9 @@
-# portifolio3ECA
+# Portifolio - Web Designer 
+
+## Tarefas
+
+- [ ] Header
+- [ ] Apresentação 
+- [ ] Projetos
+- [ ] Conhecimentos 
+- [ ] Orçamento
